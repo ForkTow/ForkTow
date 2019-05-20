@@ -3,11 +3,11 @@
   <title>Feng&#39;s Blog</title>
   
   
-  <link href="/fengblog/bg/atom.xml" rel="self"/>
+  <link href="/bg/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/fengblog/bg/"/>
+  <link href="http://fengblog.gitee.io/bg/"/>
   <updated>2019-05-20T12:09:33.952Z</updated>
-  <id>https://gitee.com/fengblog/bg/</id>
+  <id>http://fengblog.gitee.io/bg/</id>
   
   <author>
     <name>MR.er</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何建立品牌的记忆关联？</title>
-    <link href="https://gitee.com/fengblog/bg/2019/05/20/%E5%93%81%E7%89%8C%E8%AE%B0%E5%BF%86%E5%85%B3%E8%81%94/"/>
-    <id>https://gitee.com/fengblog/bg/2019/05/20/品牌记忆关联/</id>
+    <link href="http://fengblog.gitee.io/bg/2019/05/20/%E5%93%81%E7%89%8C%E8%AE%B0%E5%BF%86%E5%85%B3%E8%81%94/"/>
+    <id>http://fengblog.gitee.io/bg/2019/05/20/品牌记忆关联/</id>
     <published>2019-05-20T11:57:35.000Z</published>
     <updated>2019-05-20T12:09:33.952Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="品牌" scheme="https://gitee.com/fengblog/bg/categories/%E5%93%81%E7%89%8C/"/>
+      <category term="品牌" scheme="http://fengblog.gitee.io/bg/categories/%E5%93%81%E7%89%8C/"/>
     
     
-      <category term="品牌建设" scheme="https://gitee.com/fengblog/bg/tags/%E5%93%81%E7%89%8C%E5%BB%BA%E8%AE%BE/"/>
+      <category term="品牌建设" scheme="http://fengblog.gitee.io/bg/tags/%E5%93%81%E7%89%8C%E5%BB%BA%E8%AE%BE/"/>
     
   </entry>
   
   <entry>
     <title>摄影工作室logo设计稿</title>
-    <link href="https://gitee.com/fengblog/bg/2019/05/16/logo%E8%AE%BE%E8%AE%A1/"/>
-    <id>https://gitee.com/fengblog/bg/2019/05/16/logo设计/</id>
+    <link href="http://fengblog.gitee.io/bg/2019/05/16/logo%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://fengblog.gitee.io/bg/2019/05/16/logo设计/</id>
     <published>2019-05-16T11:20:44.704Z</published>
     <updated>2019-05-20T15:17:50.381Z</updated>
     
@@ -53,10 +53,10 @@
     
     </summary>
     
-      <category term="设计" scheme="https://gitee.com/fengblog/bg/categories/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://fengblog.gitee.io/bg/categories/%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="设计方案" scheme="https://gitee.com/fengblog/bg/tags/%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/"/>
+      <category term="设计方案" scheme="http://fengblog.gitee.io/bg/tags/%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88/"/>
     
   </entry>
   
